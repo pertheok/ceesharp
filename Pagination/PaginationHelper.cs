@@ -6,9 +6,9 @@ namespace Pagination
     {
         // --- User provided data ---
 
-        // Array containing items to be distributed throughout the pages
+        // Array containing items to be distributed throughout the pages.
         char[] _values;
-        // Maximum number of items each page can hold
+        // Maximum number of items each page can hold.
         int _items;
 
         // --- Constructor ---
@@ -21,36 +21,34 @@ namespace Pagination
 
         // --- Methods ---
 
-        // Method that indicates the amount of pages provided items are distributed between 
+        // Method that indicates the amount of pages provided items are distributed between.
         public int PageCount()
         {
-            // If there is no remainder, page count is simply a result of the division, otherwise an additional page is added to house whatever elements form the remainder
-
+            // If there is no remainder, page count is simply a result of the division, otherwise an additional page is added to house whatever elements form the remainder.
             return ItemCount() % _items == 0 ? ItemCount() / _items : (ItemCount() / _items) + 1;
         }
 
-        // Method that indicates the total number of provided items
+        // Method that indicates the total number of provided items.
         public int ItemCount()
         {
             return _values.Length;
         }
 
-        // Method that indicates how many items are on the provided page number, return value is a zero based index (if valid)
+        // Method that indicates how many items are on the provided page number, return value is a zero based index (if valid).
         public int PageItemCount(int page)
         {
             // Returns -1 if the provided page number is out of range
-            // If not, checks if there is no remainder when dividing the total number of provided items by the maximum number of items each page can hold, which indicates that all pages have the same amount of items
-            // OR checks if the page being checked is not the last one, which would hold the 
-            // OTHERWISE returns the division remainder itself, which would be the item count for the last page
-
+            // If it's not, checks if there is no remainder when dividing the total number of provided items by the maximum number of items per page, which indicates that all pages have the same amount of items
+            // OR checks if the page being checked is not the last one, which would have the different item count than other pages if ItemCount() % _items > 0
+            // Returns the max number of items per page if either condition is met, otherwise returns ItemCount() % _items, which is the item count on the last page.
             return page < 0 | page > PageCount() - 1 ? -1 : ItemCount() % _items == 0 | page != PageCount() - 1 ? _items : ItemCount() % _items;
         }
 
-        // Method that indicates the page the given item index can be found on (zero based index)
+        // Method that indicates the page the given item index can be found on (zero based index).
         public int PageIndex(int item)
         {
-            // Returns -1 if the provided item index is invalid
-            // OR returns the page
+            // Returns -1 if the provided item index is out of range
+            // OR returns the page number being the result of the integer division - this is rounded towards zero, which helps getting a result which is a zero based index.
             return item < 0 | item >= ItemCount() ? -1 : item / _items;
         }
     }
