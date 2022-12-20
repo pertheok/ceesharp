@@ -1,0 +1,15 @@
+D:\Codes\ceesharp\Pagination\obj\Debug\net7.0\Pagination.csproj.AssemblyReference.cache
+D:\Codes\ceesharp\Pagination\obj\Debug\net7.0\Pagination.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\ceesharp\Pagination\obj\Debug\net7.0\Pagination.AssemblyInfoInputs.cache
+D:\Codes\ceesharp\Pagination\obj\Debug\net7.0\Pagination.AssemblyInfo.cs
+D:\Codes\ceesharp\Pagination\obj\Debug\net7.0\Pagination.csproj.CoreCompileInputs.cache
+D:\Codes\ceesharp\Pagination\bin\Debug\net7.0\Pagination.exe
+D:\Codes\ceesharp\Pagination\bin\Debug\net7.0\Pagination.deps.json
+D:\Codes\ceesharp\Pagination\bin\Debug\net7.0\Pagination.runtimeconfig.json
+D:\Codes\ceesharp\Pagination\bin\Debug\net7.0\Pagination.dll
+D:\Codes\ceesharp\Pagination\bin\Debug\net7.0\Pagination.pdb
+D:\Codes\ceesharp\Pagination\obj\Debug\net7.0\Pagination.dll
+D:\Codes\ceesharp\Pagination\obj\Debug\net7.0\refint\Pagination.dll
+D:\Codes\ceesharp\Pagination\obj\Debug\net7.0\Pagination.pdb
+D:\Codes\ceesharp\Pagination\obj\Debug\net7.0\Pagination.genruntimeconfig.cache
+D:\Codes\ceesharp\Pagination\obj\Debug\net7.0\ref\Pagination.dll
