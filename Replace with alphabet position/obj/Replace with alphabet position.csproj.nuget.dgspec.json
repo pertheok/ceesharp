@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Codes\\ceesharp\\codewars\\Replace with alphabet position\\Replace with alphabet position.csproj": {}
+    "D:\\Codes\\ceesharp\\Replace with alphabet position\\Replace with alphabet position.csproj": {}
   },
   "projects": {
-    "D:\\Codes\\ceesharp\\codewars\\Replace with alphabet position\\Replace with alphabet position.csproj": {
+    "D:\\Codes\\ceesharp\\Replace with alphabet position\\Replace with alphabet position.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Codes\\ceesharp\\codewars\\Replace with alphabet position\\Replace with alphabet position.csproj",
+        "projectUniqueName": "D:\\Codes\\ceesharp\\Replace with alphabet position\\Replace with alphabet position.csproj",
         "projectName": "Replace with alphabet position",
-        "projectPath": "D:\\Codes\\ceesharp\\codewars\\Replace with alphabet position\\Replace with alphabet position.csproj",
+        "projectPath": "D:\\Codes\\ceesharp\\Replace with alphabet position\\Replace with alphabet position.csproj",
         "packagesPath": "C:\\Users\\kubas\\.nuget\\packages\\",
-        "outputPath": "D:\\Codes\\ceesharp\\codewars\\Replace with alphabet position\\obj\\",
+        "outputPath": "D:\\Codes\\ceesharp\\Replace with alphabet position\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kubas\\AppData\\Roaming\\NuGet\\NuGet.Config"

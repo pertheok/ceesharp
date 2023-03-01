@@ -107,7 +107,7 @@ namespace Replace
                 }
             }
             // trim the trailing whitespace from the result string
-            result.Trim();
+            result = result.Trim();
             return result;
         }
     }
