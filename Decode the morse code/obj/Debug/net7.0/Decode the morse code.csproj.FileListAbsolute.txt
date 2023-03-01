@@ -1,0 +1,15 @@
+D:\Codes\ceesharp\Decode the morse code\obj\Debug\net7.0\Decode the morse code.csproj.AssemblyReference.cache
+D:\Codes\ceesharp\Decode the morse code\obj\Debug\net7.0\Decode the morse code.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\ceesharp\Decode the morse code\obj\Debug\net7.0\Decode the morse code.AssemblyInfoInputs.cache
+D:\Codes\ceesharp\Decode the morse code\obj\Debug\net7.0\Decode the morse code.AssemblyInfo.cs
+D:\Codes\ceesharp\Decode the morse code\obj\Debug\net7.0\Decode the morse code.csproj.CoreCompileInputs.cache
+D:\Codes\ceesharp\Decode the morse code\bin\Debug\net7.0\Decode the morse code.exe
+D:\Codes\ceesharp\Decode the morse code\bin\Debug\net7.0\Decode the morse code.deps.json
+D:\Codes\ceesharp\Decode the morse code\bin\Debug\net7.0\Decode the morse code.runtimeconfig.json
+D:\Codes\ceesharp\Decode the morse code\bin\Debug\net7.0\Decode the morse code.dll
+D:\Codes\ceesharp\Decode the morse code\bin\Debug\net7.0\Decode the morse code.pdb
+D:\Codes\ceesharp\Decode the morse code\obj\Debug\net7.0\Decode the morse code.dll
+D:\Codes\ceesharp\Decode the morse code\obj\Debug\net7.0\refint\Decode the morse code.dll
+D:\Codes\ceesharp\Decode the morse code\obj\Debug\net7.0\Decode the morse code.pdb
+D:\Codes\ceesharp\Decode the morse code\obj\Debug\net7.0\Decode the morse code.genruntimeconfig.cache
+D:\Codes\ceesharp\Decode the morse code\obj\Debug\net7.0\ref\Decode the morse code.dll
