@@ -1,4 +1,4 @@
-# Find the unique number
+# Find the unique number - NOT YET COMPLETED
 
 https://www.codewars.com/kata/585d7d5adb20cf33cb000235
 
